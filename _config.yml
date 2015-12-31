@@ -1,7 +1,9 @@
+baseurl: ""
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /blog/:year/:month/:day/:title/
+permalink:           blog/:year/:month/:day/:title/
 #relative_permalinks: true
 
 # Setup

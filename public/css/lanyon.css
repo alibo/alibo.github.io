@@ -370,6 +370,7 @@ a.sidebar-nav-item:focus {
   padding-top: 2rem;
   padding-bottom: 2rem;
   border-top: 1px solid #eee;
+  direction: rtl;
 }
 .related-posts {
   padding-left: 0;
