@@ -8,6 +8,8 @@ layout: default
   {{ content }}
 </div>
 
+{% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+
 <div class="related">
   <h2>مطالب مرتبط</h2>
   <ul class="related-posts">
