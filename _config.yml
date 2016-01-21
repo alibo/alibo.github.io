@@ -1,5 +1,3 @@
-baseurl: ""
-
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -12,7 +10,7 @@ tagline:             'گاه‌نوشته‌های یک توسعه‌دهنده!
 description:         'علی برهانی
 <br>
 گاه‌نوشته‌های یک توسعه‌دهنده!'
-url:                 http://aliborhani.com
+url:                 https://alibo.github.io
 baseurl:             ''
 paginate:            5
 excerpt_separator: "<!-- more -->"
