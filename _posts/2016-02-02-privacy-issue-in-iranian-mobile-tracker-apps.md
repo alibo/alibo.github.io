@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: ردیابی شماره موبایل، ما حریم خصوصی شما را نقض می‌کنیم!
+image: assets/images/2016-02-02_mobile_tracker_cafebazaar.jpg
 tags:
   - mobile tracker
   - ردیابی شماره موبایل
