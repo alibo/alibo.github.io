@@ -2,7 +2,10 @@
 layout: post
 comments: true
 title: پیاده سازی ضعیف در ورود با گوگل!
-tags: oauth2, ورود با گوگل, sign-in with google
+tags: 
+  - sign-in with google
+  - oauth2
+  - ورود با گوگل
 ---
 
 ![صفحه لاگین سرویس toggl.com]({{site.baseur}}/assets/images/2016-01-21_toggl_login.jpg)
