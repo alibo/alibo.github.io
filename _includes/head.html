@@ -26,9 +26,9 @@
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
   {% endif %}
   {% if page.title == "Home" %}
-    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
-  {% else %}
     <meta name="twitter:description" content="{{ site.description }}">
+  {% else %}
+    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
   {% endif %}
   {% if page.image %}
     <meta name="twitter:image:src" content="{{ site.url }}/{{ page.image }}">
