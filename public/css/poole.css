@@ -49,12 +49,12 @@ body {
 
 html {
   font-family: "samim", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 17px;
+  font-size: 16px;
   line-height: 1.8;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
 
@@ -81,21 +81,21 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: .8rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
 }
 h2 {
-  margin-top: 1rem;
-  font-size: 1.4rem;
+  margin-top: 1.7rem;
+  font-size: 1.5rem;
 }
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 1.4rem;
   font-size: 1.3rem;
 }
 h4, h5, h6 {
@@ -154,7 +154,7 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 85%;
+  font-size: 90%;
   color: #bf616a;
   background-color: #f9f9f9;
   border-radius: 3px;
@@ -164,7 +164,7 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
   padding: 1rem;
-  font-size: .8rem;
+  font-size: .9rem;
   line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
@@ -237,8 +237,8 @@ img {
 img+em {
   display: block;
   text-align: center;
-  font-size: 70%;
-  margin: 0.3em auto;
+  font-size: 90%;
+  margin: 0.3em auto 0.5em auto;
 }
 
 /* Tables */
