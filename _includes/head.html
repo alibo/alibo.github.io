@@ -17,10 +17,10 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@aliborhani1">
   <meta name="twitter:creator" content="@aliborhani1">
-  {% if page.title %}
-    <meta name="twitter:title" content="{{ page.title }}">
-  {% else %}
+  {% if page.title == "Home" %}
     <meta name="twitter:title" content="{{ site.title }}">
+  {% else %}
+    <meta name="twitter:title" content="{{ page.title }}">
   {% endif %}
   {% if page.url %}
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
