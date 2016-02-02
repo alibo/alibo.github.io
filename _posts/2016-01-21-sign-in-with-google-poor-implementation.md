@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: پیاده سازی ضعیف در ورود با گوگل!
+image: assets/images/2016-01-21_toggl_login.jp
 tags: 
   - sign-in with google
   - oauth2
