@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  [قدیمی] فیلترینگ ایران چگونه کار می کند؟
+title: قدیمی - فیلترینگ ایران چگونه کار می کند؟
 tags:
   - filternet
   - فیلترینگ
